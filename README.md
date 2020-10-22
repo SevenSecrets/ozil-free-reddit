@@ -6,6 +6,7 @@ So, I'm making this extension to just hide any news stories or posts about him s
 
 ### ToDo
 
+	- make an icon for the extension
 	- get the contentScript to run every time the page loads new content, rather than just on the initial load
 	- once I've done that, try to make sure it doesn't iterate through everything again somehow, since that would be a bit inefficient
 	- stop making ozil fanboys so mad I guess?
