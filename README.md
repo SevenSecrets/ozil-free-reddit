@@ -5,8 +5,7 @@ Look, I don't mind Ozil, he's a great player, he seems like an alright guy, but 
 So, I'm making this extension to just hide any news stories or posts about him specifically from reddit, so that I don't get dragged into scrolling through pointless circular arguments about him where everyone talks past each other because they made up their minds 8 months ago.
 
 ### ToDo
-
-	- make an icon for the extension
-	- get the contentScript to run every time the page loads new content, rather than just on the initial load
-	- once I've done that, try to make sure it doesn't iterate through everything again somehow, since that would be a bit inefficient
-	- stop making ozil fanboys so mad I guess?
+- make an icon for the extension
+- get the contentScript to run every time the page loads new content, rather than just on the initial load
+- once I've done that, try to make sure it doesn't iterate through everything again somehow, since that would be a bit inefficient
+- stop making ozil fanboys so mad I guess?
