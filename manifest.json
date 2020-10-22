@@ -2,9 +2,11 @@
 	"name": "Ozil Free Reddit",
 	"version": "1.0",
 	"description": "Remove all of those annoying stories about Ozil on Reddit that never actually say anything new and just make people argue over nothing.",
-	"background": {
-		"scripts": ["background.js"],
-		"persistent": false
-	},
+	"content_scripts": [
+		{
+			"matches": ["https://www.reddit.com/*"],
+			"js": ["contentScript.js"]
+		}
+	],
 	"manifest_version": 2
 }
